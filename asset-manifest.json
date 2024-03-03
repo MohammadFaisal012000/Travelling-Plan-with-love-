@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Travelling-Plan-with-love-/static/css/main.2bdeef2a.css",
+    "main.js": "/Travelling-Plan-with-love-/static/js/main.afe7e1e8.js",
+    "index.html": "/Travelling-Plan-with-love-/index.html",
+    "main.2bdeef2a.css.map": "/Travelling-Plan-with-love-/static/css/main.2bdeef2a.css.map",
+    "main.afe7e1e8.js.map": "/Travelling-Plan-with-love-/static/js/main.afe7e1e8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2bdeef2a.css",
+    "static/js/main.afe7e1e8.js"
+  ]
+}
